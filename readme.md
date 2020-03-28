@@ -8,10 +8,9 @@ Our intern Dan is working on this killer Movie Quotes App that returns a random 
 
 ## Installation
 
-- Clone this repo with `git clone ...`
+- Clone this repo with `git clone git@github.com:knnyczr/application_assignment.git`
 - Install dependencies using `npm i`
-- cmd + click: http://localhost:3000 
-- *OR* run http://localhost:3000 in your favorite browser to see the random movie quote app
+- Load: http://localhost:3000 in your favorite browser to see the random movie quote app
 
 ![working app](app.gif)
 
